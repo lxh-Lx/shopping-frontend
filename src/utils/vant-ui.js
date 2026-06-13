@@ -1,0 +1,23 @@
+import Vue from 'vue'
+import { Rate, ActionSheet, Icon, Button, Tabbar, TabbarItem, NavBar, Toast, Search, Swipe, SwipeItem, Grid, GridItem, Dialog, Checkbox, Tabs, Tab, Switch, Popup, Picker } from 'vant'
+
+Vue.use(GridItem)
+Vue.use(Search)
+Vue.use(Swipe)
+Vue.use(SwipeItem)
+Vue.use(Grid)
+Vue.use(Toast)
+Vue.use(NavBar)
+Vue.use(Tabbar)
+Vue.use(TabbarItem)
+Vue.use(Button)
+Vue.use(Icon)
+Vue.use(Rate)
+Vue.use(ActionSheet)
+Vue.use(Dialog)
+Vue.use(Checkbox)
+Vue.use(Tabs)
+Vue.use(Tab)
+Vue.use(Switch)
+Vue.use(Popup)
+Vue.use(Picker)
